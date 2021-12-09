@@ -21,3 +21,7 @@ TorchSharp实现TextCNN，参照代码 https://github.com/649453932/Chinese-Text
 python的神经网络相关库非常完善，在实现中经常用到pytorch以外的库对向量进行处理，这时候就必须参考这个库的实现来重新实现。这也是在翻译过程中比较痛苦的问题。
 
 ML.NET的路还很远，希望微软能多投入点力量在深度学习方面，目前的线路图来看，ML.NET接入TorchSharp要到2022年底，我的天，这进度真的太慢了。
+
+## 快速开始
+
+相关的数据可使用 https://github.com/649453932/Chinese-Text-Classification-Pytorch 库中的，注意对比代码，文件名可能有略微不同。
