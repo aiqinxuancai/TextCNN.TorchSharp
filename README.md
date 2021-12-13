@@ -8,7 +8,7 @@ This project will be a port of TextCNN from pytorch, although TorchSharp is in a
 
 The neural network-related libraries in python are very well developed, and libraries other than pytorch are often used in the implementation to process vectors, which must then be reimplemented by referring to the implementation of this library. This is also a more painful problem in the translation process.
 
-ML.NET still has a long way to go, I hope Microsoft can invest more power in deep learning, the current line chart shows that ML.NET access to TorchSharp until the end of 2022, my God, this progress is really too slow.
+ML.NET still has a long way to go, I hope Microsoft can invest more power in deep learning, the current roadmap shows that ML.NET will access TorchSharp until the end of 2022, my God, this progress is really too slow.
 
 ----
 
